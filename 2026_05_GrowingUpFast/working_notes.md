@@ -283,106 +283,111 @@ Voice tag rule for verse endings:
 ## Test Draft
 
 **The Man We Gave the World**
-*Working Draft*
-
----
 
 **Verse 1 — Father**
+```
+| G | G |
+Do you remember,  darling dear,
 
-Do you remember, darling dear,
-the night I drove him safely home?
-I held him like the world might break —
-my heart was no longer my own.
-He slept so small inside my arms,
-one breath, one heartbeat, one soft sound —
-I would have moved the earth itself
-to keep that little life from harm.
-*I miss our boy, but hail the man.*
+| D | D |
+the night I drove him  safely home?
 
+| Em | Em |
+I held him like the  world might break -
+
+| C | C |
+my heart was no longer  my own.
+
+| G | G |
+He slept so small  inside my arms,
+
+| D | D |
+one breath, one heartbeat,  one soft sound -
+
+| C | C |
+I would have moved  the earth itself
+
+| G | G |
+to keep that little  life from harm.
+
+| C | C |
+I miss our boy,
+
+| G | G |
+but hail the man.
+```
 ---
+```
+Do you remember,  darling dear,
+his first word ringing  down the hall?
+His first steps crossed  the kitchen floor
+and I stood ready  for his fall.
+I'd come home     with some little thing -
+a toy, a treat,  some small surprise -
+just for the joy  that filled the room
+when happiness lit up  his eyes.
 
-**Verse 2 — Father**
+I miss our boy,
+but hail the man.
 
-Do you remember, darling dear,
-his first word ringing down the hall?
-His first steps crossed the kitchen floor
-and I stood ready for his fall.
-I'd come home with some little thing —
-a toy, a treat, some small surprise —
-just for the joy that filled the room
-when happiness lit up his eyes.
-*I miss our boy, but hail the man.*
 
----
+Do you remember,  mother dear,
+the way I followed him  around?
+I watched him tie, and  fix, and build -
+in his orbit  I was bound.
+He was the measure  of all things,
+the strongest man I'd  ever known -
+safe within his shadow,  I learned
+what I'd need for  life alone.
 
-**Verse 3 — Son**
+I was that boy,
+became this man.
 
-Do you remember, mother dear,
-the way I followed him around?
-I watched him tie, and fix, and build —
-in his orbit I was bound.
-He was the measure of all things,
-the strongest man I'd ever known —
-safe within his shadow, learned
-what I'd need for life alone.
-*I was that boy, became this man.*
+Do you remember,  mother dear,
+the years I hid  behind my door?
+No smiles would fill the  house with joy,
+no human shadow  anymore.
+A voice that answered  just in grunts,
+a spotty face    you'd rarely see -
+was learning how    to build the man
+I was always    meant to be.
 
----
+I was that boy,
+became this man.
 
-**Verse 4 — Son**
+Do you remember,  darling dear,
+the day I watched   him standing tall?
+He didn't take    my offered hand -
+and didn't stumble,  didn't fall.
+We stood like brothers  in a photo,
+he would have thanked me  in his speech -
+so many names     written on the page,
+there wasn't time    for him  to reach.
 
-Do you remember, mother dear,
-the years I hid behind my door?
-No smiles would fill the house with joy,
-no human shadow anymore.
-A voice that answered just in grunts,
-a spotty face you'd rarely see —
-was learning how to build the man
-I was always meant to be.
-*I was that boy, became this man.*
+I miss our boy,
+but hail the man.
 
----
+Do you remember,  mother dear,
+the first time I  returned home?
+My graduation    photo stood proud
+beside a silent  telephone.
+Found dusty tools  up on the shelf -
+I took the weight  he used to lift,
+And I steadied     father's hands  
+so he could tie,   and build, and fix.
 
-**Verse 5 — Father**
+I was that boy,
+became this man.
 
-Do you remember, darling dear,
-the day I watched him standing tall?
-He didn't take my offered hand —
-and didn't stumble, didn't fall.
-We stood like brothers in a photo,
-and he would have thanked me in his speech —
-so many names upon the page,
-there wasn't time for him to reach.
-*I miss our boy, but hail the man.*
+Do you remember,  my dear love,
+the day we laid you  in the ground?
+I thought I couldn't  carry on -
+we'd fall like trees  without a sound.
+But then our son   reached out his hand,
+the same sure hands   you taught to build.
+I felt you there   inside his grip,
+the promise quietly  fulfilled.
 
----
-
-**Verse 6 — Son**
-
-Do you remember, mother dear,
-the first time I returned home?
-My graduation photo proud
-beside a silent telephone.
-Found dusty tools upon the shelf —
-I took the weight he used to lift,
-I steadied father's hands so he could
-tie, and build, and fix.
-*I was that boy, became this man.*
-
----
-
-**Verse 7 — Wife**
-
-Do you remember, my dear love,
-the day we laid you in the ground?
-I thought I couldn't carry on —
-we'd fall like trees without a sound.
-But then our son reached out his hand,
-the same sure hands you taught to build.
-I felt you there inside his grip,
-the promise quietly fulfilled.
-*I miss you dear, but hail the man.*
-
----
-
-*Voice order: Father · Father · Son · Son · Father · Son · Wife*
+I miss you dear,
+but hail the man.
+```
