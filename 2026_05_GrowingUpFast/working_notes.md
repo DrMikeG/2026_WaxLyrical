@@ -282,84 +282,107 @@ Voice tag rule for verse endings:
 
 ## Test Draft
 
-### Verse 1 — Father
-    (Birth and infant ferocity; protection and awe)
+**The Man We Gave the World**
+*Working Draft*
+
+---
+
+**Verse 1 — Father**
 
 Do you remember, darling dear,
 the night I drove him safely home?
-I held him like the world might break,
+I held him like the world might break —
 my heart was no longer my own.
 He slept so small inside my arms,
 one breath, one heartbeat, one soft sound —
 I would have moved the earth itself
-to keep that little bundle safe.
-I miss our boy, but hail the man.
+to keep that little life from harm.
+*I miss our boy, but hail the man.*
 
-### Verse 2 — Father
-    (First words, first steps, toys, treats, father as centre)
+---
+
+**Verse 2 — Father**
 
 Do you remember, darling dear,
-his first word ringing through the hall?
+his first word ringing down the hall?
 His first steps crossed the kitchen floor
 and I stood ready for his fall.
 I'd come home with some little thing —
 a toy, a treat, some small surprise —
-just for the smile that reaches his eye
+just for the joy that filled the room
+when happiness lit up his eyes.
+*I miss our boy, but hail the man.*
 
-I miss our boy, but hail the man.
+---
 
-### Verse 3 — Son
-    (Teenage distance and first attempts at manhood)
+**Verse 3 — Son**
 
 Do you remember, mother dear,
 the way I followed him around?
 I watched him tie, and fix, and build —
-and every answer could found.
-Then came the years I shut my door
-turned my back and growled,
-In the darkness and the space
-grew a man to make you proud
+in his orbit I was bound.
+He was the measure of all things,
+the strongest man I'd ever known —
+safe within his shadow, learned
+what I'd need for life alone.
+*I was that boy, became this man.*
 
-I was that boy, became this man.
+---
 
-### Verse 4 — Father
-    (Pride at competence — exams, performance — mixed with felt loss)
-
-Do you remember, darling dear,
-when silence settled in the hall?
-His questions stopped, his bedroom cleared,
-no dirty hand prints on the walls.
-The nest was never truely finished,
-but he grew strong enough to fly,
-when once I was his orbit, 
-the wence the open sky.
-
-I miss our boy, but hail the man.
-
-### Verse 5 — Son
-    (Adult return — moving out, visiting, wine, helping his father)
+**Verse 4 — Son**
 
 Do you remember, mother dear,
-the first time I came back by choice?
-I brought a bottle of red wine
-and feelings deeper than my voice.
+the years I hid behind my door?
+No smiles would fill the house with joy,
+no human shadow anymore.
+A voice that answered just in grunts,
+a spotty face you'd rarely see —
+was learning how to build the man
+I was always meant to be.
+*I was that boy, became this man.*
+
+---
+
+**Verse 5 — Father**
+
+Do you remember, darling dear,
+the day I watched him standing tall?
+He didn't take my offered hand —
+and didn't stumble, didn't fall.
+We stood like brothers in a photo,
+and he would have thanked me in his speech —
+so many names upon the page,
+there wasn't time for him to reach.
+*I miss our boy, but hail the man.*
+
+---
+
+**Verse 6 — Son**
+
+Do you remember, mother dear,
+the first time I returned home?
+My graduation photo proud
+beside a silent telephone.
+Found dusty tools upon the shelf —
 I took the weight he used to lift,
-I steadied what his hands let go —
-the boy from the father's shadow
-had grown tall enough to throw his own.
+I steadied father's hands so he could
+tie, and build, and fix.
+*I was that boy, became this man.*
 
-I was that boy, became this man.
+---
 
-## Verse 6 — Wife
-    (Final word; comforted by the man her son became)
+**Verse 7 — Wife**
 
 Do you remember, my dear love,
 the day we laid you in the ground?
-I thought I wouldn't find my feet —
-I thought I'd fall without a sound.
-But then our son put out his hand,
+I thought I couldn't carry on —
+we'd fall like trees without a sound.
+But then our son reached out his hand,
 the same sure hands you taught to build.
 I felt you there inside his grip,
 the promise quietly fulfilled.
+*I miss you dear, but hail the man.*
 
-I miss our man, but hail our boy.
+---
+
+*Voice order: Father · Father · Son · Son · Father · Son · Wife*
